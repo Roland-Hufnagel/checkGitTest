@@ -6,6 +6,6 @@ class MainTest {
 
     @Test
     void greet() {
-        assertTrue(5>3);
+        assertTrue(5 < 3);
     }
 }
